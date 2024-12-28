@@ -1,0 +1,30 @@
+.total-container {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-self: flex-end;
+}
+.price {
+  color: black;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 20px;
+}
+.title {
+  color: #616e7c;
+  font-family: Roboto;
+}
+.checkout-btn {
+  background-color: #0b69ff;
+  color: white;
+  border-radius: 10px;
+  border-width: 0px;
+  padding: 10px;
+}
+.quantity {
+  color: #616e7c;
+  font-family: Roboto;
+  font-size: 20px;
+  padding-left: 0px;
+}
